@@ -1,4 +1,4 @@
-# MSR Hackathon 2022
+# MSR Virtual Hackathon 2022
 
 Today, software is developed with the help of many supporting systems, which provide help for source code management, code review, issue tracking, synchronous or asynchronous interpersonal communication, continuous integration, and many other tasks. Many of these systems store a wealth of data about how software is being developed, allowing for detailed studies and exploration tools that could be used to better understand software development.
 
@@ -10,7 +10,7 @@ The GrimoireLab MSR Virtual Hackathon will provide activities typical of the in-
 
 Please join if you are concerned about better understanding software development and building tools to help researchers and stakeholders better understand how specific software projects perform. Also, if you are interested in adding another tool to your toolbox, the hackathon may help you in your future research. In this hackathon, we will focus on the analysis of free, open source software (FOSS) projects providing free access to their development data, but results will be of potential interest to the industry at large, and of course, to the research community.
 
-The descriptions of the projects selected by the PC will be published at the Hackathon track of MSR’2021, and given publicity in the CHAOSS community.
+The descriptions of the projects selected by the PC will be published at the Hackathon track of [MSR’2022](https://conf.researchr.org/track/msr-2022/), and given publicity in the CHAOSS community.
 
 Any topics related to conducting research, building tools, or improving infrastructure that supports software development, helps industry in their use of or production of software, or educational/training aspects related to work in the retrieval, analysis, or visualization of software development data are within the scope of the hackathon. For example:
 
