@@ -28,7 +28,7 @@ Participants in the hackathon should use GrimoireLab components, or data obtaine
 
 Key Dates
 
-* The intent for participation will be collected until October 18, 2022. The intent should be submitted by opening an issue in the issue tracker of the [Hackthon GitHub repository](https://github.com/MSRHack2022/Hackathon). Please, use as title for the issue "Participation in MSR Hackathon: XXX" (being XXX a potential team name), and include in the description of the issue the names of the intended participants, and if possible, project ideas. Individual intentions to participate are also possible: we will help to compose teams with individual participants.
+* The intent for participation will be collected until October 18, 2021. The intent should be submitted by opening an issue in the issue tracker of the [Hackthon GitHub repository](https://github.com/MSRHack2022/Hackathon). Please, use as title for the issue "Participation in MSR Hackathon: XXX" (being XXX a potential team name), and include in the description of the issue the names of the intended participants, and if possible, project ideas. Individual intentions to participate are also possible: we will help to compose teams with individual participants.
 
 * November 11: One day online training sessions, defining research questions, scoping problems, and team formation. People who did not submit any intent before this date can still join at this point. During the period of October 18 to November 11, the organizers will help the participants to formulate the ideas to prepare for project pitches presented on November 11.
 
