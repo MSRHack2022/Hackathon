@@ -28,7 +28,7 @@ Participants in the hackathon should use GrimoireLab components, or data obtaine
 
 Key Dates
 
-* The intent for participation will be collected until October 18, 2021. The intent should be submitted by opening an issue in the issue tracker of the [Hackthon GitHub repository](https://github.com/MSRHack2022/Hackathon). Please, use as title for the issue "Participation in MSR Hackathon: XXX" (being XXX a potential team name), and include in the description of the issue the names of the intended participants, and if possible, project ideas. Individual intentions to participate are also possible: we will help to compose teams with individual participants.
+* The intent for participation will be collected until October 18, 2022. The intent should be submitted by opening an issue in the issue tracker of the [Hackthon GitHub repository](https://github.com/MSRHack2022/Hackathon). Please, use as title for the issue "Participation in MSR Hackathon: XXX" (being XXX a potential team name), and include in the description of the issue the names of the intended participants, and if possible, project ideas. Individual intentions to participate are also possible: we will help to compose teams with individual participants.
 
 * November 11: One day online training sessions, defining research questions, scoping problems, and team formation. People who did not submit any intent before this date can still join at this point. During the period of October 18 to November 11, the organizers will help the participants to formulate the ideas to prepare for project pitches presented on November 11.
 
@@ -36,7 +36,7 @@ Key Dates
 
 * December 10: team presentations to the PC. PC will provide feedback to the presenters on the originality of the idea, the potential impact of the proposed solution, and how to communicate the project ideas
 
-* January 27: Submission of a description of the team projects (up to two pages) for the submission to the MSR2021 Hackathon track.
+* January 27: Submission of a description of the team projects (up to two pages) for the submission to the MSR2022 Hackathon track.
 
 * February 28: Notification of the acceptance to MSR Hackathon Track published in the MSR proceedings. The PC will judge submissions based on the clarity of the description, the originality of the idea, the potential impact of the proposed solution, and the sophistication of the artifacts produced during the hackathon.
 
