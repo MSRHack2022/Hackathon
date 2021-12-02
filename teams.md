@@ -21,5 +21,17 @@ Participants:
 
 Brief description of the intended research
 
+## GrimoireGitter
+
+Repository: https://github.com/k----n/GrimoireGitter
+
+Participants:
+
+* Kalvin Eng
+* Hareem Sahar
+
+**Description of the intended research:**
+We intend to replicate the pipeline of this paper: https://softwareprocess.es/pubs/sahar2020JSS-Gitter-Issues.pdf accross more Gitter rooms to analyze how issue reports are discussed.
+
 
 
