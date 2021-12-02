@@ -9,17 +9,12 @@ of the pull request.
 
 ## Team name
 
-Repository: url-to-GitHub-or-GitLab-repository
+Repository: https://github.com/nirhasabnis/Hackathon
 
 Participants:
 
-* Name1
-* Name2
-* ...
+* Niranjan Hasabnis
 
 **Description of the intended research:**
 
-Brief description of the intended research
-
-
-
+Using repository information, including metadata, along with some quality metrics to rank repositories based on quality. Towards that end, I am using Perceval and GitHub REST APIs to extract out necessary information.
