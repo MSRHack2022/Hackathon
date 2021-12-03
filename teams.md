@@ -33,5 +33,14 @@ Participants:
 **Description of the intended research:**
 We intend to replicate the pipeline of this paper: https://softwareprocess.es/pubs/sahar2020JSS-Gitter-Issues.pdf accross more Gitter rooms to analyze how issue reports are discussed.
 
+## MPR
 
+Repository: https://github.com/nirhasabnis/Hackathon
 
+Participants:
+
+* Niranjan Hasabnis
+
+**Description of the intended research:**
+
+Using repository information, including metadata, along with some quality metrics to rank repositories based on quality. Towards that end, I am using Perceval and GitHub REST APIs to extract out necessary information.
