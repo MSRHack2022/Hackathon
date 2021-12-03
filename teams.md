@@ -9,6 +9,20 @@ of the pull request.
 
 ## Team name
 
+Repository: url-to-GitHub-or-GitLab-repository
+
+Participants:
+
+* Name1
+* Name2
+* ...
+
+**Description of the intended research:**
+
+Brief description of the intended research
+
+## MPR
+
 Repository: https://github.com/nirhasabnis/Hackathon
 
 Participants:
