@@ -41,9 +41,9 @@ with participants in advance.
   * Use case with Perceval ([video recording](https://gsyc.urjc.es/jgb/tmp/msr-2022/training-2021-11-11-session1-b.mp4))
   * Use cases with the whole toolset ([video recording](https://gsyc.urjc.es/jgb/tmp/msr-2022/training-2021-11-11-session1-c.mp4))
 
-* Second session (2021-11-11 18:00 UTC) GrimoireLab Deployment and Use ([video recording](https://gsyc.urjc.es/jgb/tmp/msr-2022/training-2021-11-11-session2.mp4))
+* Second session (2021-11-11 18:00 UTC): GrimoireLab Deployment and Use ([video recording](https://gsyc.urjc.es/jgb/tmp/msr-2022/training-2021-11-11-session2.mp4))
 
-* Third session (2021-11-26 8:00 UTC) Catch-up session
+* Third session (2021-11-26 8:00 UTC): Catch-up session
 
 ## Hacking days and solving issues
 
@@ -58,6 +58,8 @@ organizers can join the conversarion, in addition to GrimoireLab developers.
 For issues related to the hackathon itself, the preferred way of interaction will be by opening tickets
 in this repositor, and and posting the corresponding link to the Matrix room, so that other participants and
 organizers can easily join the conversarion.
+
+* First session (2021-12-02 16:00 UTC) Checking session
 
 ## Hackathon teams
 
@@ -86,6 +88,13 @@ and references to the repository of the team are welcome.
 The main aim of presentations is to provide feedback, both from a research and from a practical point of view,
 to the projects presented. The feedback will be provided by organizers and by the members of
 the MSR Hackathon PC that can join.
+
+There are two sessions to present to the PC. Participants are welcome to attend both of them, but they
+will present in only one of them. The schedule of the sessions is:
+
+* First session (2021-12-10 8:00 UTC)
+
+* Second session (2021-12-10 16:00 UTC)
 
 ## Description of team projects
 
