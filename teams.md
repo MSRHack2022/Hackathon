@@ -44,3 +44,26 @@ Participants:
 **Description of the intended research:**
 
 Using repository information, including metadata, along with some quality metrics to rank repositories based on quality. Towards that end, I am using Perceval and GitHub REST APIs to extract out necessary information.
+
+## The Groninger Bugbusters
+
+Repository: https://gitlab.com/groninger-bugbusters/graal-grimoirelab-analysis
+
+Participants (name + gitlab id):
+
+* Erwin de Haan             (@erwindehaan)
+* Willem Meijer             (@wmeijer221)
+* Merijn Schröder           (@merijnschroder)
+* David Visscher            (@DavidVisscher)
+* Leon Visscher             (@l.visscher.2)
+
+University Supervisors
+* prof. Andrea Capiluppi    (@a.capiluppi)
+* Ioan Botez                (@i.botez)
+
+**Description of the intended research:**
+
+We are a team of five Master's Computing Science students at the [University of Groningen](https://www.rug.nl/) and are taking part in this hackathon as part of our *Software Maintenance and Evolution* course. 
+During this hackathon, we will be taking a closer look at the maintainability and evolution-readiness of the GrimoireLab toolkit. 
+To do this, we will be using the toolkit itself for analysis - e.g. Perceval for repository metrics, Graal for code metrics, and Kibiter for visualization. 
+We will use this information in combination with issues experienced by other participants, GrimoireLab developers, and our hands-on findings to determine what components are the least future-proof and refactor those where needed. 
