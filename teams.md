@@ -67,3 +67,17 @@ We are a team of five Master's Computing Science students at the [University of 
 During this hackathon, we will be taking a closer look at the maintainability and evolution-readiness of the GrimoireLab toolkit. 
 To do this, we will be using the toolkit itself for analysis - e.g. Perceval for repository metrics, Graal for code metrics, and Kibiter for visualization. 
 We will use this information in combination with issues experienced by other participants, GrimoireLab developers, and our hands-on findings to determine what components are the least future-proof and refactor those where needed. 
+
+
+## NAP (previously team Natarajan Chidambaram)
+
+Repository: https://github.com/pooya-rostami/Hackathon-21
+
+Participants:
+
+* Pooya Rostami Mazrae
+* Natarajan Chidambaram
+
+**Description of the intended research:**
+
+We intend to extend an already existing tool about bot detection in GitHub repositories (Published in DOI: 10.1016/j.jss.2021.110911) and add it as a plugin to the existing grimoirelab tool to expand its functionality. Futher we would like to include some visualization for this specific functionality.
