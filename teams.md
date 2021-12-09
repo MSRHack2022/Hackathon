@@ -82,3 +82,53 @@ Participants (name + gitlab id):
 **Description of the intended research:**
 
 In this hackathon, we hope to analyze how collaborators of a repository contribute to the code review process. Also, we would like to see if the code reviews have an actual impact on the code changes.
+
+
+## NAP (previously team Natarajan Chidambaram)
+
+Repository: https://github.com/pooya-rostami/Hackathon-21
+
+Participants:
+
+* Pooya Rostami Mazrae
+* Natarajan Chidambaram
+
+**Description of the intended research:**
+
+We intend to extend an already existing tool about bot detection in GitHub repositories (Published in DOI: 10.1016/j.jss.2021.110911) and add it as a plugin to the existing grimoirelab tool to expand its functionality. Futher we would like to include some visualization for this specific functionality.
+
+## Magna Carta Libertatum
+
+Repository: https://github.com/Magna-Carta-Libertatum/
+
+Participants:
+
+* [Kaylea Champion](https://github.com/kayleachampion)
+* [Wm Salt Hale](https://github.com/altsalt)
+
+**Description of the intended research:**
+
+We propose to extend GrimoireLab as needed in order to support an analysis of software licensing. We seek to extract and organize license data collected from repositories, enrich it with category schemes developed by NGOs concerned with software licensing, and analyze the data longitudinally using both category-driven and text processing techniques.
+
+*Potential research questions:*
+* How is license usage changing over time?
+* Can we detect dark patterns such as license ratcheting through automated means?
+
+
+## Team Balloon
+
+Repository: https://github.com/cptanalatriste/team-balloon-msr
+
+Participants:
+
+* Carlos Gavidia-Calderon
+* José Caballero Ortiz
+
+**Description of the intended research:**
+
+We are examining incentives for integrators to perform pull-requests in open source projects.
+To this end, we are using Perceval to extract pull-request information
+from GitHub repositories.
+Using multivariate time-series analysis, we are looking for factors
+that affect the decrease/increase of merged pull-requests per integrator.
+
