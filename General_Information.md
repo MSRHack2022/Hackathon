@@ -94,7 +94,7 @@ will present in only one of them. The schedule of the sessions is:
 
 * First session (2021-12-10 8:00 UTC). Presentations by Groninger Bugbusters, Team Natarajan Chidambaram, Team Hexa, Team Magna Carta Libertatum.
 
-* Second session (2021-12-10 16:00 UTC). Presentations by Team Balloon, Team Pacers, Team MPR, Team James Walden
+* Second session (2021-12-10 16:00 UTC). Presentations by Team Balloon, Team Pacers, Team MPR, Team James Walden, Team GrimoireGitter.
 
 ## Description of team projects
 
