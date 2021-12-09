@@ -92,9 +92,9 @@ the MSR Hackathon PC that can join.
 There are two sessions to present to the PC. Participants are welcome to attend both of them, but they
 will present in only one of them. The schedule of the sessions is:
 
-* First session (2021-12-10 8:00 UTC). Presentations by Groninger Bugbusters, Team Natarajan Chidambaram, Team Hexa, Team Magna Carta Libertatum.
+* First session (2021-12-10 8:00 UTC). Presentations by Groninger Bugbusters, Team NAP, Team Hexa, Team Magna Carta Libertatum.
 
-* Second session (2021-12-10 16:00 UTC). Presentations by Team Balloon, Team Pacers, Team MPR, Team James Walden, Team GrimoireGitter.
+* Second session (2021-12-10 16:00 UTC). Presentations by Team Balloon, Team Pacers, Team MPR, Team OpenSSL, Team GrimoireGitter.
 
 ## Description of team projects
 
