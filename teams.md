@@ -63,10 +63,10 @@ University Supervisors
 
 **Description of the intended research:**
 
-We are a team of five Master's Computing Science students at the [University of Groningen](https://www.rug.nl/) and are taking part in this hackathon as part of our *Software Maintenance and Evolution* course. 
-During this hackathon, we will be taking a closer look at the maintainability and evolution-readiness of the GrimoireLab toolkit. 
-To do this, we will be using the toolkit itself for analysis - e.g. Perceval for repository metrics, Graal for code metrics, and Kibiter for visualization. 
-We will use this information in combination with issues experienced by other participants, GrimoireLab developers, and our hands-on findings to determine what components are the least future-proof and refactor those where needed. 
+We are a team of five Master's Computing Science students at the [University of Groningen](https://www.rug.nl/) and are taking part in this hackathon as part of our *Software Maintenance and Evolution* course.
+During this hackathon, we will be taking a closer look at the maintainability and evolution-readiness of the GrimoireLab toolkit.
+To do this, we will be using the toolkit itself for analysis - e.g. Perceval for repository metrics, Graal for code metrics, and Kibiter for visualization.
+We will use this information in combination with issues experienced by other participants, GrimoireLab developers, and our hands-on findings to determine what components are the least future-proof and refactor those where needed.
 
 
 ## NAP (previously team Natarajan Chidambaram)
@@ -100,3 +100,19 @@ We propose to extend GrimoireLab as needed in order to support an analysis of so
 * Can we detect dark patterns such as license ratcheting through automated means?
 
 
+## Team Balloon
+
+Repository: https://github.com/cptanalatriste/team-balloon-msr
+
+Participants:
+
+* Carlos Gavidia-Calderon
+* José Caballero Ortiz
+
+**Description of the intended research:**
+
+We are examining incentives for integrators to perform pull-requests in open source projects.
+To this end, we are using Perceval to extract pull-request information
+from GitHub repositories.
+Using multivariate time-series analysis, we are looking for factors
+that affect the decrease/increase of merged pull-requests per integrator.
