@@ -63,10 +63,25 @@ University Supervisors
 
 **Description of the intended research:**
 
-We are a team of five Master's Computing Science students at the [University of Groningen](https://www.rug.nl/) and are taking part in this hackathon as part of our *Software Maintenance and Evolution* course.
-During this hackathon, we will be taking a closer look at the maintainability and evolution-readiness of the GrimoireLab toolkit.
-To do this, we will be using the toolkit itself for analysis - e.g. Perceval for repository metrics, Graal for code metrics, and Kibiter for visualization.
+We are a team of five Master's Computing Science students at the [University of Groningen](https://www.rug.nl/) and are taking part in this hackathon as part of our *Software Maintenance and Evolution* course. 
+During this hackathon, we will be taking a closer look at the maintainability and evolution-readiness of the GrimoireLab toolkit. 
+To do this, we will be using the toolkit itself for analysis - e.g. Perceval for repository metrics, Graal for code metrics, and Kibiter for visualization. 
 We will use this information in combination with issues experienced by other participants, GrimoireLab developers, and our hands-on findings to determine what components are the least future-proof and refactor those where needed.
+
+## Team Hexa
+
+Repository:https://github.com/DhanJaya/Hexa-MSR-Hackathon
+
+Participants (name + gitlab id):
+
+* Dhanushka Jayasuriya             (@DhanJaya)
+* Chathura Priyankara             (@chathurapriyankara)
+* Nilani Gunasekara           (@NilaniG)
+
+
+**Description of the intended research:**
+
+In this hackathon, we hope to analyze how collaborators of a repository contribute to the code review process. Also, we would like to see if the code reviews have an actual impact on the code changes.
 
 
 ## NAP (previously team Natarajan Chidambaram)
@@ -116,3 +131,4 @@ To this end, we are using Perceval to extract pull-request information
 from GitHub repositories.
 Using multivariate time-series analysis, we are looking for factors
 that affect the decrease/increase of merged pull-requests per integrator.
+
