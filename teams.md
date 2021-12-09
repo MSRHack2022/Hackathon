@@ -132,3 +132,13 @@ from GitHub repositories.
 Using multivariate time-series analysis, we are looking for factors
 that affect the decrease/increase of merged pull-requests per integrator.
 
+
+## Team OpenSSL
+
+Participants:
+
+* James Walden
+
+**Description of the intended research:**
+
+Compare the impact of design documents on open source evolution using OpenSSL as a case study. Version 3.0.0 was the first version created with design documents. I plan to compare the evolution of version 3.0.0 with the predecessor 1.1.x versions of OpenSSL.
