@@ -142,3 +142,18 @@ Participants:
 **Description of the intended research:**
 
 Compare the impact of design documents on open source evolution using OpenSSL as a case study. Version 3.0.0 was the first version created with design documents. I plan to compare the evolution of version 3.0.0 with the predecessor 1.1.x versions of OpenSSL.
+
+## Team Pacers
+
+Participants:
+
+* Krishna Bathula
+* Kaleemanunisa
+* Shubham Trivedi
+* Christelle Scharff
+
+**GitHub repository:** TBD
+
+**Description of the intended research:**
+
+We intent to look at GitHub commit message quality over several open source projects and develop a commit message generator. 
