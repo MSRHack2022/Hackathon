@@ -47,19 +47,19 @@ Using repository information, including metadata, along with some quality metric
 
 ## The Groninger Bugbusters
 
-Repository: https://gitlab.com/groninger-bugbusters/graal-grimoirelab-analysis
+Repositories: https://github.com/Groninger-Bugbusters
 
-Participants (name + gitlab id):
+Participants (name + github id):
 
 * Erwin de Haan             (@erwindehaan)
 * Willem Meijer             (@wmeijer221)
-* Merijn Schröder           (@merijnschroder)
+* Merijn Schröder           (@merijnS)
 * David Visscher            (@DavidVisscher)
-* Leon Visscher             (@l.visscher.2)
+* Leon Visscher             (@leonvisscher)
 
 University Supervisors
-* prof. Andrea Capiluppi    (@a.capiluppi)
-* Ioan Botez                (@i.botez)
+* prof. Andrea Capiluppi
+* Ioan Botez
 
 **Description of the intended research:**
 
