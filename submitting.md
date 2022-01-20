@@ -30,7 +30,7 @@ To that end, the following LaTeX code can be placed at the start of the LaTeX do
 \acmConference[MSR 2022]
   {MSR '22: Proceedings of the 19th International Conference on Mining Software Repositories}
   {May 23–24, 2022}{Pittsburgh, PA, USA}
-'''
+```
 
 Papers should include the complete list of authors, which should match the list of
 authors in the [teams.md](teams.md) file.
