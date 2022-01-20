@@ -48,3 +48,4 @@ A [dedicated GitHub repository](https://github.com/MSRHack2022/Hackathon) is pro
 
 * [More detailed information about the hackathon](General_Information.md).
 * [Description of teams](teams.md).
+* [Submission information](submitting.md).
