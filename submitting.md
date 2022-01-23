@@ -52,7 +52,7 @@ as examples of accepted papers.
 
 * Paper limit: three pages, including references
 
-# Submission process
+## Submission process
 
 Submissions to the Technical Track can be made via the 
 [submission site](https://msr2022-hack.hotcrp.com) by the submission deadline.
@@ -77,10 +77,16 @@ form and will receive further instructions for preparing the camera-ready versio
 At least one author of each paper is expected to register and present the paper at the MSR 2022 conference.
 All accepted contributions will be published in the electronic proceedings of the conference.
 
-# Important dates
+## Important dates
 
 * January 27: Submission of a description of the team projects (up to two pages) for the submission to the MSR2022 Hackathon track.
 
 * February 28: Notification of the acceptance to MSR Hackathon Track published in the MSR proceedings. The PC will judge submissions based on the clarity of the description, the originality of the idea, the potential impact of the proposed solution, and the sophistication of the artifacts produced during the hackathon.
 
 All dates are [AoE](https://en.wikipedia.org/wiki/Anywhere_on_Earth).
+
+## Notices about the proceedings
+
+The official publication date is the date the proceedings are made available in the ACM or IEEE Digital Libraries. This date may be up to two weeks prior to the first day of ICSE 2022. The official publication date affects the deadline for any patent filings related to published work.
+
+Purchase of additional pages in the proceedings is not allowed.
