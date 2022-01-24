@@ -36,9 +36,9 @@ Key Dates
 
 * December 10: team presentations to the PC. PC will provide feedback to the presenters on the originality of the idea, the potential impact of the proposed solution, and how to communicate the project ideas
 
-* January 27: Submission of a description of the team projects (up to two pages) for the submission to the MSR2022 Hackathon track.
+* **Extended to February 3** (was: January 27): Submission of a description of the team projects (up to two pages) for the submission to the MSR2022 Hackathon track.
 
-* February 28: Notification of the acceptance to MSR Hackathon Track published in the MSR proceedings. The PC will judge submissions based on the clarity of the description, the originality of the idea, the potential impact of the proposed solution, and the sophistication of the artifacts produced during the hackathon.
+* **Extended to March 4** (was: February 28): Notification of the acceptance to MSR Hackathon Track published in the MSR proceedings. The PC will judge submissions based on the clarity of the description, the originality of the idea, the potential impact of the proposed solution, and the sophistication of the artifacts produced during the hackathon.
 
 Organizers will provide support in the form of mentors that can help with technical issues. The hackathon will also provide the opportunity for participants to work with world-class researchers on relevant problems and research questions. In addition to its organizers and the program committee, the hackathon will be supported by [Bitergia](https://bitergia.com), the company leading the development of GrimoireLab, and CHAOSS, the community in which GrimoireLab is maintained.
 
