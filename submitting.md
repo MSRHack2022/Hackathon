@@ -79,9 +79,9 @@ All accepted contributions will be published in the electronic proceedings of th
 
 ## Important dates
 
-* January 27: Submission of a description of the team projects (up to two pages) for the submission to the MSR2022 Hackathon track.
+* **Extended to February 3** (was: January 27): Submission of a description of the team projects (up to two pages) for the submission to the MSR2022 Hackathon track.
 
-* February 28: Notification of the acceptance to MSR Hackathon Track published in the MSR proceedings. The PC will judge submissions based on the clarity of the description, the originality of the idea, the potential impact of the proposed solution, and the sophistication of the artifacts produced during the hackathon.
+* **Extended to March 4** (was: February 28): Notification of the acceptance to MSR Hackathon Track published in the MSR proceedings. The PC will judge submissions based on the clarity of the description, the originality of the idea, the potential impact of the proposed solution, and the sophistication of the artifacts produced during the hackathon.
 
 All dates are [AoE](https://en.wikipedia.org/wiki/Anywhere_on_Earth).
 
