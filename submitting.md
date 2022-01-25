@@ -10,12 +10,6 @@ To submit a description of a project, the team should have correct and complete
 information in the [teams.md](teams.md) file. The name used in that file should
 be mentioned in the paper (see below).
 
-## Deadlines
-
-* January 27: Submission of a description of the team projects (up to two pages) for the submission to the MSR Hackathon track.
-
-* February 28: Notification of the acceptance to MSR Hackathon Track published in the MSR proceedings. The PC will judge submissions based on the clarity of the description, the originality of the idea, the potential impact of the proposed solution, and the sophistication of the artifacts produced during the hackathon.
-
 ## Format
 
 All teams should use the official
