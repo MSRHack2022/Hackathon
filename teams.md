@@ -35,7 +35,7 @@ We intend to replicate the pipeline of this paper: https://softwareprocess.es/pu
 
 ## MPR
 
-Repository: https://github.com/nirhasabnis/Hackathon
+Repository: https://github.com/nirhasabnis/gitrank
 
 Participants:
 
