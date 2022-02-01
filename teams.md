@@ -107,7 +107,8 @@ Repository: https://github.com/cptanalatriste/team-balloon-msr
 Participants:
 
 * Carlos Gavidia-Calderon
-* José Caballero Ortiz
+* DongGyun Han
+* Amel Bennaceur
 
 **Description of the intended research:**
 
